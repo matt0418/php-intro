@@ -7,6 +7,24 @@
     <title>Document</title>
 </head>
 <body>
+
+
+
+    <?php 
+    
+    
+    $number = 10;
+
+    echo $number;
+
+    define("name", "Matt");
+
+    echo name;
+
+    
+    ?>
+
+
     
 </body>
 </html>
