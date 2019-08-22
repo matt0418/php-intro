@@ -8,5 +8,22 @@
 </head>
 <body>
     
+
+    <?php 
+    
+    function addNumber($number1, $number2) {
+        $sum = $number1 + $number2;
+        return $sum;
+    }
+
+    $newNum = addNumber(3,5);
+
+    echo $newNum;
+    
+    
+    
+    ?>
+
+
 </body>
 </html>
